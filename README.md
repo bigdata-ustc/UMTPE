@@ -3,7 +3,7 @@ This is a realization of UMTPE model[1].
 
 Please run the "candidate_run.sh" and "extract_run.sh", and the final result is in folder "result".
 
-If you want to use our code, please site our paper[1].
+If you want to use our code, please cite our paper[1].
 
 The codes of candidate generation part is partically learned from ECON[2].
 
